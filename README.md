@@ -4,7 +4,7 @@ Created by Dave Akerman (dave@sccs.co.uk)
 
 This software is written for the PITS Zero with Pi Zero, PITS+ with the various A+/B+ models, and the original PITS with the Pi A/B boards.
 
-PITS Zero and PITS+ can be purchased from board from http://ava.upuaut.net/store/.
+PITS Zero and PITS+ can be purchased from board from https://store.uputronics.com/.
 
 Software support is provided for customers who have purchased a PITS, PITS Zero or PITS+ board, for use with that board only.
 
